@@ -19,7 +19,7 @@ Posture Guard is a wearable posture correction device powered by an **ESP32** mi
 
 ## 📷 Pictures
 
-
+<img src="images/product2.jpg" width="400"/>
 ## 📦 Components Used
 - **ESP32** microcontroller
 - **IMU Sensor** (e.g., MPU-6050 / MPU-9250)
@@ -27,4 +27,4 @@ Posture Guard is a wearable posture correction device powered by an **ESP32** mi
 - Li-ion Battery & Charging Circuit
 - Enclosure (3D printed or custom case)
 
-<img src="images/product2.jpg" width="400"/>
+
