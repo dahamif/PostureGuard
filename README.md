@@ -1,8 +1,6 @@
 # Posture Guard
 
-![Posture Guard Device](images/product1.jpg)
-*Figure – Posture Guard wearable device*
-
+<img src="images/product1.jpg" width="400"/>
 ## 📌 Overview
 Posture Guard is a wearable posture correction device powered by an **ESP32** microcontroller. It uses an **IMU sensor** to detect slouching and a **vibration motor** to provide gentle feedback, helping you maintain a healthy sitting position throughout the day.
 
@@ -21,9 +19,6 @@ Posture Guard is a wearable posture correction device powered by an **ESP32** mi
 
 ## 📷 Pictures
 
-| Device Front | Inside View | Wearing Example |
-|--------------|-------------|-----------------|
-| ![Front View](images/front.jpg) | ![Inside](images/inside.jpg) | ![Wearing](images/wearing.jpg) |
 
 ## 📦 Components Used
 - **ESP32** microcontroller
@@ -32,4 +27,4 @@ Posture Guard is a wearable posture correction device powered by an **ESP32** mi
 - Li-ion Battery & Charging Circuit
 - Enclosure (3D printed or custom case)
 
-
+<img src="images/product2.jpg" width="400"/>
