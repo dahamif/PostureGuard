@@ -1,6 +1,6 @@
 # Posture Guard
 
-![Posture Guard Device](images/main.jpg)
+![Posture Guard Device](images/product1.jpg)
 *Figure – Posture Guard wearable device*
 
 ## 📌 Overview
